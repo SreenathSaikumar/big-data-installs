@@ -1,6 +1,6 @@
 # big-data-installs
 Installing Hadoop and Spark on Linux for the Big Data course at PES University, now with support for your extremely niche Arch and ZSH setup.
-Only the Hadoop script has been changed as of now. 
+Only the Hadoop script has been changed as of now and the Markdown files are still written for Ubuntu but shouldn't be an issue. 
 
 # Installing Hadoop and Spark
 
