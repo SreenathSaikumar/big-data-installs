@@ -1,5 +1,6 @@
 # big-data-installs
-Installing Hadoop and Spark on Linux for the Big Data course at PES University 
+Installing Hadoop and Spark on Linux for the Big Data course at PES University, now with support for your extremely niche Arch and ZSH setup.
+Only the Hadoop script has been changed as of now. 
 
 # Installing Hadoop and Spark
 
